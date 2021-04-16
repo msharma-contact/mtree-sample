@@ -37,7 +37,7 @@ public class ApiDummy {
 	
 @Test
 	public void deleteData() {
-		//http://dummy.restapiexample.com/api/v1/employee/3
+	//http://dummy.restapiexample.com/api/v1/employee/3
     RequestSpecification httpRequest =RestAssured.given();
     httpRequest.header("Content-Type","application/json");
    // Response response = httpRequest.request(Method.DELETE,"/api/v1/delete/7");
