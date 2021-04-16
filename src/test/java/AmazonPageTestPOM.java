@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 
 import com.Amazon.qa.pages.AmazonSearchPage;
 import com.Amazon.qa.testBase.TestBase;
-import org.testng.Assert;
+
 
 public class AmazonPageTestPOM extends TestBase {
 
